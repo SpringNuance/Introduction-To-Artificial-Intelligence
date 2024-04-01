@@ -1,0 +1,2 @@
+Download model.safetensors
+https://huggingface.co/docs/safetensors/en/index

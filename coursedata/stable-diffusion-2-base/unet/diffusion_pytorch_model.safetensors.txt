@@ -1,0 +1,2 @@
+Download diffusion_pytorch_model.safetensors
+https://huggingface.co/stabilityai/stable-diffusion-2/blame/f5e69f3e3d06b14086c7cf0d526f6afa123e91ff/vae/diffusion_pytorch_model.safetensors
